@@ -1,0 +1,10 @@
+C:\Users\ricky\source\repos\ImgVwr\ImgVwr\bin\Release\ImgVwr.exe.config
+C:\Users\ricky\source\repos\ImgVwr\ImgVwr\bin\Release\ImgVwr.exe
+C:\Users\ricky\source\repos\ImgVwr\ImgVwr\bin\Release\ImgVwr.pdb
+C:\Users\ricky\source\repos\ImgVwr\ImgVwr\obj\Release\ImgVwr.ImgVwr.resources
+C:\Users\ricky\source\repos\ImgVwr\ImgVwr\obj\Release\ImgVwr.Properties.Resources.resources
+C:\Users\ricky\source\repos\ImgVwr\ImgVwr\obj\Release\ImgVwr.csproj.GenerateResource.Cache
+C:\Users\ricky\source\repos\ImgVwr\ImgVwr\obj\Release\ImgVwr.csproj.CoreCompileInputs.cache
+C:\Users\ricky\source\repos\ImgVwr\ImgVwr\obj\Release\ImgVwr.exe
+C:\Users\ricky\source\repos\ImgVwr\ImgVwr\obj\Release\ImgVwr.pdb
+C:\Users\ricky\source\repos\ImgVwr\ImgVwr\obj\Release\ImgVwr.csprojResolveAssemblyReference.cache

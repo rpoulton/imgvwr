@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImgVwr", "ImgVwr\ImgVwr.csproj", "{5A6267FB-3F77-4105-84BA-F4AB4B8E0309}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A6267FB-3F77-4105-84BA-F4AB4B8E0309}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A6267FB-3F77-4105-84BA-F4AB4B8E0309}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A6267FB-3F77-4105-84BA-F4AB4B8E0309}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A6267FB-3F77-4105-84BA-F4AB4B8E0309}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41D814DD-FE4F-41B6-99AB-3018FC80A6F4}
+	EndGlobalSection
+EndGlobal
